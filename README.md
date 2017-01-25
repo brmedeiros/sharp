@@ -1,2 +1,2 @@
-# s.h.a.r.p
+# s.h.a.r.p.
 Super Human Automatic Rhythm Player (s.h.a.r.p.) is a discord bot for playing music.
